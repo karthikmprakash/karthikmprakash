@@ -1,6 +1,6 @@
 # Hey there! <img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" width="25px">
 
-I'm Karthik, a passionate self-taught  Software engineer and a Data-Scientist. 
+I'm Karthik, a passionate self-taught  Software Engineer and a Data-Scientist. 
 
 I use a combination of intuition in Software, Hardware, Bigdata and Math to solve real world problems. I take great care in the experience, architecture, and code quality with a ton of attention to detail in the things I build. Keep building solutions that help businesses thrive better, learn more technologies and help people excel at it too.
 
