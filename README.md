@@ -16,7 +16,7 @@ Here are some ideas to get you started:
 - 🌱 I'm currently learning Javascript and MLOps and Vedic Math
 - 👯 I’m looking to collaborate on building a wireless UWB-ECG electrodes 
 - 💬 Ask me anything related to math, machine learning, aviation, embedded systems etc.. I will be happy to help!
-- ⚡ Fun fact: I am a professional photographer/videographer, Illustrator, calligraphist and also a amateur ornithologist. 
+- ⚡ Fun fact: I am a professional photographer/videographer, Illustrator, calligraphist, aviation enthusiast and also a amateur ornithologist. 
 - 🎯 Building an eHealth Technology in Community Health Care to make healthcare affordable
 
 ## REACH OUT TO ME
