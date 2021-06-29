@@ -2,7 +2,9 @@
 
 I'm Karthik, a passionate self-taught  Software Engineer and a Data-Scientist. 
 
-<img align="right" alt="GIF" height="250px" src="output-onlinegiftools.gif"/>
+<!-- <img align="right" alt="GIF" height="250px" src="output-onlinegiftools.gif"/> -->
+<img align="right" alt="GIF" height="250px" src="https://i.pinimg.com/originals/1a/a5/41/1aa54136f55c03a40ba7192ebe9b0a41.gif"/>
+
 
 I use a combination of intuition in Software, Hardware, Bigdata and Math to solve real world problems. I take great care in the experience, architecture, and code quality with a ton of attention to detail in the things I build. Keep building solutions that help businesses thrive better, learn more technologies and help people excel at it too.
 
