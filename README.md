@@ -8,7 +8,7 @@ I use a combination of intuition in Software, Hardware, Bigdata and Math to solv
 
 I am also an open-source enthusiast and maintainer. I learned a lot from the open-source community and I love how collaboration and knowledge sharing happened through open-source.
 
-> ### _“The beginning of greatness is to be different, and the beginning of failure is to be the same.”_
+> ### _“The beginning of greatness is to be different, and the beginning of failure is to be the same”_
 > \- Roy Whittier
 <!--
 **karthikmprakash/karthikmprakash** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
