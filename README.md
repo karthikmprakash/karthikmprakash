@@ -2,6 +2,8 @@
 
 I'm Karthik, a passionate self-taught  Software Engineer and a Data-Scientist. 
 
+<img align="right" alt="GIF" height="170px" src="https://mk0graxcomarhqly53nf.kinstacdn.com/app/uploads/2020/08/why-we-built-grax.gif"/>
+
 I use a combination of intuition in Software, Hardware, Bigdata and Math to solve real world problems. I take great care in the experience, architecture, and code quality with a ton of attention to detail in the things I build. Keep building solutions that help businesses thrive better, learn more technologies and help people excel at it too.
 
 I am also an open-source enthusiast and maintainer. I learned a lot from the open-source community and I love how collaboration and knowledge sharing happened through open-source.
