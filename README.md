@@ -8,7 +8,8 @@ I use a combination of intuition in Software, Hardware, Bigdata and Math to solv
 
 I am also an open-source enthusiast and maintainer. I learned a lot from the open-source community and I love how collaboration and knowledge sharing happened through open-source.
 
-
+> ### _“The beginning of greatness is to be different, and the beginning of failure is to be the same.”_
+> \- Roy Whittier
 <!--
 **karthikmprakash/karthikmprakash** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
@@ -20,6 +21,7 @@ Here are some ideas to get you started:
 - 💬 Ask me anything related to math, machine learning, aviation, embedded systems etc.. I will be happy to help!
 - ⚡ My sidelines: I am a professional photographer/videographer, Illustrator, calligraphist, aviation enthusiast and also a amateur ornithologist. 
 - 🎯 Building an eHealth Technology for community to make healthcare affordable and accessible 
+
 
 <!-- Used www.icons8.com -->
 ## REACH OUT TO ME
