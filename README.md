@@ -13,7 +13,7 @@ I am also an open-source enthusiast and maintainer. I learned a lot from the ope
 Here are some ideas to get you started:
 -->
 - 🔭 I’m currently working as a freelance Data-Scientist and an ERP consultant
-- 🌱 I'm currently learning Javascript and MLOps and Vedic Math
+- 🌱 I'm currently learning Javascript and MLOps
 - 👯 I’m looking to collaborate on building a wireless UWB-ECG electrodes 
 - 💬 Ask me anything related to math, machine learning, aviation, embedded systems etc.. I will be happy to help!
 - ⚡ My sidelines: I am a professional photographer/videographer, Illustrator, calligraphist, aviation enthusiast and also a amateur ornithologist. 
