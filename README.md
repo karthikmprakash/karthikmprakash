@@ -34,6 +34,7 @@ Here are some ideas to get you started:
 <a href='mailto:mkarthikprakash.work@gmail.com'><img src="https://img.icons8.com/color/48/000000/subscribe--v1.png"></a>
 <a href='https://t.me/karthik_m_prakash'><img src="https://img.icons8.com/color/48/000000/telegram-app.png"/></a>
 <a href='https://www.kaggle.com/karthikmprakash'><img src="https://www.kaggle.com/static/images/site-logo.png" height=30px></a>
+<a href='https://stackoverflow.com/users/15284890/karthik-m-prakash'><img src="https://img.icons8.com/color/48/000000/stackoverflow.png"/></a>
 <!--
 <a href='mailto:mkarthikprakash.work@gmail.com'><img src="https://media.giphy.com/media/L5LRkP5bUDFiZee7w2/giphy.gif" width="150"></a>
 -->
