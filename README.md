@@ -1,6 +1,6 @@
 # Hey there! <img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" width="25px">
 
-I'm Karthik, a passionate self-taught  Software Engineer and a Data-Scientist. 
+I'm Karthik, a passionate self-taught Data-Scientist, Software Engineer and Automation Developer. 
 
 <!-- <img align="right" alt="GIF" height="250px" src="output-onlinegiftools.gif"/> -->
 
