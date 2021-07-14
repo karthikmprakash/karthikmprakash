@@ -40,6 +40,17 @@ Here are some ideas to get you started:
 <!--
 <a href='mailto:mkarthikprakash.work@gmail.com'><img src="https://media.giphy.com/media/L5LRkP5bUDFiZee7w2/giphy.gif" width="150"></a>
 -->
+
+<p align="center">
+	<img src="https://github-readme-stats.vercel.app/api?username=karthikmprakash&show_icons=true&include_all_commits=true&count_private=true&hide_border=true&theme=dark" />
+	<img src="https://github-readme-streak-stats.herokuapp.com/?user=karthikmprakash&include_all_commits=true&hide_border=true&theme=dark"/>
+	<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=karthikmprakash&layout=compact&langs_count=10&include_all_commits=true&hide_border=true&theme=dark">
+</p>
+
+
+
+
+
 ## WHAT I USE MOSTLY
 
 ### Languages
