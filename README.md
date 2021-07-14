@@ -28,11 +28,11 @@ Here are some ideas to get you started:
 
 <!-- Used www.icons8.com -->
 ## REACH OUT TO ME
+<a href='mailto:mkarthikprakash.work@gmail.com'><img src="https://img.icons8.com/color/48/000000/subscribe--v1.png"></a>
 <a href='https://twitter.com/MkarthikPrakash'><img src="https://img.icons8.com/color/48/000000/twitter-circled--v4.png" ></a>
 <a href='https://ca.linkedin.com/in/karthikmprakash'><img src="https://img.icons8.com/color/48/000000/linkedin-circled--v1.png" ></a>
 <a href='https://medium.com/@karmpra'><img src="https://img.icons8.com/color/48/000000/medium-monogram.png"> </a>
 <a href='https://www.instagram.com/karthik_m_prakash/'><img src="https://img.icons8.com/color/48/000000/instagram-new.png" ></a>
-<a href='mailto:mkarthikprakash.work@gmail.com'><img src="https://img.icons8.com/color/48/000000/subscribe--v1.png"></a>
 <a href='https://t.me/karthik_m_prakash'><img src="https://img.icons8.com/color/48/000000/telegram-app.png"/></a>
 <a href='https://www.kaggle.com/karthikmprakash'><img src="https://www.kaggle.com/static/images/site-logo.png" height=30px></a>
 <a href='https://stackoverflow.com/users/15284890/karthik-m-prakash'><img src="https://img.icons8.com/color/48/000000/stackoverflow.png"/></a>
