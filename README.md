@@ -8,7 +8,7 @@ I'm Karthik, a passionate self-taught Data-Scientist, Software Engineer and Auto
 <img align="right" alt="GIF" height="250px" src="./Digital-Marketing-Write-For-Us.webp"/>
 
 I use a combination of knowledge in Software, Hardware, Bigdata and Math to solve real world problems.
-I take great care in the experience, architecture, and code quality with a ton of attention to detail 
+I take great care in architecture and code quality with a ton of attention to detail 
 in the things I build. I like to keep building solutions that help businesses thrive better.
 My goal is to improve results, make the right decisions and save costs. I use knowledge in statistics and machine learning
 for finding complex data patterns that drive meaningful impact on the business.
@@ -23,7 +23,7 @@ I am also an open-source enthusiast and maintainer. I learned a lot from the ope
 Here are some ideas to get you started:
 -->
 - 🔭 I’m currently working as a Data-Scientist
-- 🌱 I'm currently learning Javascript and MLOps
+- 🌱 I'm currently learning Javascript
 - 👯 I’m looking to collaborate on building a wireless UWB-ECG electrodes 
 - 💬 Ask me anything related to math, machine learning, aviation, embedded systems etc.. I will be happy to help!
 - ⚡ My sidelines: I am a professional photographer/videographer, Illustrator, calligraphist, aviation enthusiast and also a amateur ornithologist. 
