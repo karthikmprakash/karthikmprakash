@@ -1,19 +1,13 @@
-# Hey there! <img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" width="5px">
+# Hey there! <img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" width="35px">
 
-I'm Karthik, a passionate self-taught Data-Scientist, Software Engineer and Automation Developer. 
+I'm Karthik, an enthusiastic self-taught Solution Architect and Data Scientist with over 6 years of diverse experience. My journey spans data science consulting, enterprise SaaS solution development, automation, and aiding businesses in adopting open-source stacks. My expertise lies in crafting AI/ML solutions and software tools that assist businesses in hosting, deploying, and automating processes, ultimately enabling them to make better decisions and drive growth.
 
 <!-- <img align="right" alt="GIF" height="250px" src="output-onlinegiftools.gif"/> -->
 
 <!--<img align="right" alt="GIF" height="250px" src="https://i.pinimg.com/originals/1a/a5/41/1aa54136f55c03a40ba7192ebe9b0a41.gif"/> -->
-<img align="right" alt="GIF" height="250px" src="./Digital-Marketing-Write-For-Us.webp"/>
+<!--<img align="right" alt="GIF" height="250px" src="./Digital-Marketing-Write-For-Us.webp"/> -->
 
-I use a combination of knowledge in Software, Hardware, Bigdata and Math to solve real world problems.
-I take great care in architecture and code quality with a ton of attention to detail 
-in the things I build. I like to keep building solutions that help businesses thrive better.
-My goal is to improve results, make the right decisions and save costs. I use knowledge in statistics and machine learning
-for finding complex data patterns that drive meaningful impact on the business.
-
-I am also an open-source enthusiast and maintainer. I learned a lot from the open-source community and I love how collaboration and knowledge sharing happened through open-source.
+I am also an open-source enthusiast. I learned a lot from the open-source community and I love how collaboration and knowledge sharing happened through open-source.
 
 > ### _“The beginning of greatness is to be different, and the beginning of failure is to be the same”_
 > \- Roy Whittier
@@ -22,9 +16,8 @@ I am also an open-source enthusiast and maintainer. I learned a lot from the ope
 
 Here are some ideas to get you started:
 -->
-- 🔭 I’m currently working as a Data-Scientist
+- 🔭 I’m currently working as a Lead Data Scientist
 - 🌱 I'm currently learning Javascript
-- 👯 I’m looking to collaborate on building a wireless UWB-ECG electrodes 
 - 💬 Ask me anything related to math, machine learning, aviation, embedded systems etc.. I will be happy to help!
 - ⚡ My sidelines: I am a professional photographer/videographer, Illustrator, calligraphist, aviation enthusiast and also a amateur ornithologist. 
 - 🎯 Building an eHealth Technology for community to make healthcare affordable and accessible 
